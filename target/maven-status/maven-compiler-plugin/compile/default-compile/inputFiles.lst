@@ -1,0 +1,7 @@
+/apps/src/main/java/wazirx/entity/Job.java
+/apps/src/main/java/wazirx/dao/Dao.java
+/apps/src/main/java/wazirx/dao/JobDao.java
+/apps/src/main/java/wazirx/JAXRSConfiguration.java
+/apps/src/main/java/wazirx/resource/JobResource.java
+/apps/src/main/java/wazirx/business/JobBusiness.java
+/apps/src/main/java/wazirx/entity/Entity.java

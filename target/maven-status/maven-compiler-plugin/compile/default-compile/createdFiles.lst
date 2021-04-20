@@ -1,0 +1,7 @@
+wazirx/dao/Dao.class
+wazirx/resource/JobResource.class
+wazirx/entity/Entity.class
+wazirx/business/JobBusiness.class
+wazirx/entity/Job.class
+wazirx/dao/JobDao.class
+wazirx/JAXRSConfiguration.class
